@@ -1,2 +1,7 @@
-# SDiZO_1
-Badanie efektywności operacji dodawania, usuwania oraz wyszukiwania elementów w różnych strukturach danych 
+# Sdizo projekt 1
+
+
+
+#� �S�D�i�Z�O�
+�
+�
